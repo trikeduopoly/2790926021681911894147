@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "683596625512",
+    "project_id": "pinjol-tanpa-verifikasi-wajah",
+    "storage_bucket": "pinjol-tanpa-verifikasi-wajah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683596625512:android:78aea7df30b192f6ec6ddd",
+        "android_client_info": {
+          "package_name": "com.PinjolTanpaVerifikasiWajah.mastercraftmod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683596625512-4t9o1jo4ur03b2sim90iqds6ai9ohgrc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpWYCsQN4hsalaKpKgJKSQMKWXXpxn9gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683596625512-4t9o1jo4ur03b2sim90iqds6ai9ohgrc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
